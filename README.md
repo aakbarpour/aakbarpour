@@ -25,3 +25,5 @@ Building better projects, learning fast, and sharing my progress.
 
 - Website: https://akbarpour.dev
 - X: https://x.com/akbarpourdev
+- Telegram: https://t.me/aakbarpour
+- Instagram: https://instagram.com/akbarpourdev
