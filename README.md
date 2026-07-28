@@ -13,8 +13,8 @@ I enjoy working with TypeScript, Python, and modern web technologies, and I'm cu
 ## Tech Stack
 
 **Languages:** TypeScript, Python  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, APIs, Docker  
+**Frontend:** React, Next.js  
+**Backend:** Node.js  
 **ML:** Python, ML basics
 
 ## Current Focus
