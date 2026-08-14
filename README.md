@@ -1,29 +1,9 @@
 # Hi, I'm Amir 👋
 
-I'm a student developer focused on building useful tools around **Web and Machine Learning**.
+Software developer building practical products across **software engineering, machine learning, and developer tooling**.
 
-I enjoy working with TypeScript, Python, and modern web technologies, and I'm currently exploring ML-powered security tools.
+Currently part of the **Informatics team at Abniran Consulting Engineers**, working on software and digital systems.
 
-## What I'm working on
+Outside of work, I build and open-source projects around developer tooling, applied ML.
 
-- Building projects around phishing detection and web security
-- Learning Machine Learning with Python
-- Improving my skills in full-stack development
-
-## Tech Stack
-
-**Languages:** TypeScript, Python  
-**Frontend:** React, Next.js  
-**Backend:** Node.js  
-**ML:** Python, ML basics
-
-## Current Focus
-
-Building better projects, learning fast, and sharing my progress.
-
-## Links
-
-- Website: https://akbarpour.dev
-- X: https://x.com/akbarpourdev
-- Telegram: https://t.me/aakbarpour
-- Instagram: https://instagram.com/akbarpourdev
+[Website](https://akbarpour.dev) · [X](https://x.com/akbarpourdev)
